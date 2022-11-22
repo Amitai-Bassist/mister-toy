@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "ma543",
+    "name": "'talking doll'",
+    "price": 123,
+    "lables": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": "Date.now()",
+    "inStock": true
+  },
+  {
+    "_id": "md432",
+    "name": "'cars'",
+    "price": 250,
+    "inStock": false,
+    "createdAt": "Date.now()"
+  },
+  {
+    "_id": "al976",
+    "name": "'talking teddy bear'",
+    "price": 76,
+    "lables": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": "Date.now()",
+    "inStock": true
+  },
+  {
+    "_id": "g6ab5",
+    "name": "'puzzle'",
+    "price": 500,
+    "lables": [
+      "Puzzle",
+      "Outdoor"
+    ],
+    "createdAt": "Date.now()",
+    "inStock": false
+  }
+]
